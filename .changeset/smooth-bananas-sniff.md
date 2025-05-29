@@ -1,5 +1,0 @@
----
-"throwless": major
----
-
-First release
