@@ -1,5 +1,0 @@
----
-"byethrow": major
----
-
-First release
